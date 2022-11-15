@@ -1,0 +1,4 @@
+Plot file "C:\Users\Gerald\Documents\KiCad Projects\PacmanClock_ESP32_SPI_v1_1\PacmanClock_ESP32_SPI_v1_1-F_Cu.gbr" created.
+Plot file "C:\Users\Gerald\Documents\KiCad Projects\PacmanClock_ESP32_SPI_v1_1\PacmanClock_ESP32_SPI_v1_1-B_Cu.gbr" created.
+Plot file "C:\Users\Gerald\Documents\KiCad Projects\PacmanClock_ESP32_SPI_v1_1\PacmanClock_ESP32_SPI_v1_1-Edge_Cuts.gbr" created.
+Create Gerber job file "C:\Users\Gerald\Documents\KiCad Projects\PacmanClock_ESP32_SPI_v1_1\PacmanClock_ESP32_SPI_v1_1-job.gbrjob"

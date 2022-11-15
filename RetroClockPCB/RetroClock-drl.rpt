@@ -1,0 +1,30 @@
+Drill report for C:\Users\Gerald\Documents\KiCad Projects\RetroClockPCB\RetroClock.kicad_pcb
+Created on 11/15/2022 12:18:12 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RetroClock-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (18 holes)
+    T2  0.75mm  0.030"  (3 holes)
+    T3  0.76mm  0.030"  (30 holes)
+    T4  0.80mm  0.031"  (14 holes)
+    T5  0.95mm  0.037"  (4 holes)
+    T6  0.99mm  0.039"  (2 holes)
+    T7  1.00mm  0.039"  (18 holes)
+    T8  1.50mm  0.059"  (2 holes)
+
+    Total plated holes count 91
+
+
+Drill file 'RetroClock-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.70mm  0.106"  (8 holes)
+
+    Total unplated holes count 8
