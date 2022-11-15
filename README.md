@@ -9,5 +9,5 @@ Modifications:
 5. Added audio amplifier (LM386) and volume control via touch screen.
 6. Redesigned user interface (Touch menu) to support added features.
 7. Made many changes to firmware to improve speed and readability. 
-8. Designed PCB with above mentioned changes.
+8. Designed PCB to support above mentioned changes.
 9. Redesigned 3D printed parts to support hardware changes.
