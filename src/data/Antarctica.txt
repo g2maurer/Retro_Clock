@@ -1,0 +1,11 @@
+Casey,<+11>-11
+Davis,<+07>-7
+DumontDUrville,<+10>-10
+Macquarie,AEST-10AEDT,M10.1.0,M4.1.0/3
+Mawson,<+05>-5
+McMurdo,NZST-12NZDT,M9.5.0,M4.1.0/3
+Palmer,<-03>3
+Rothera,<-03>3
+Syowa,<+03>-3
+Troll,<+00>0<+02>-2,M3.5.0/1,M10.5.0/3
+Vostok,<+06>-6

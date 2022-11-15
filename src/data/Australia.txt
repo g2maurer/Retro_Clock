@@ -1,0 +1,12 @@
+Adelaide,ACST-9:30ACDT,M10.1.0,M4.1.0/3
+Brisbane,AEST-10
+Broken_Hill,ACST-9:30ACDT,M10.1.0,M4.1.0/3
+Currie,AEST-10AEDT,M10.1.0,M4.1.0/3
+Darwin,ACST-9:30
+Eucla,<+0845>-8:45
+Hobart,AEST-10AEDT,M10.1.0,M4.1.0/3
+Lindeman,AEST-10
+Lord_Howe,<+1030>-10:30<+11>-11,M10.1.0,M4.1.0
+Melbourne,AEST-10AEDT,M10.1.0,M4.1.0/3
+Perth,AWST-8
+Sydney,AEST-10AEDT,M10.1.0,M4.1.0/3

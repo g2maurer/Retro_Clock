@@ -1,0 +1,11 @@
+Antananarivo,EAT-3
+Chagos,<+06>-6
+Christmas,<+07>-7
+Cocos,<+0630>-6:30
+Comoro,EAT-3
+Kerguelen,<+05>-5
+Mahe,<+04>-4
+Maldives,<+05>-5
+Mauritius,<+04>-4
+Mayotte,EAT-3
+Reunion,<+04>-4

@@ -1,0 +1,111 @@
+
+short row1n6dots[12] = {4, 28, 52, 74, 98, 120, 168, 192, 216, 238, 262, 284};
+short row2n5dots[6] = {4, 62, 120, 168, 228, 284};
+short row3n4dots[13] = {4, 28, 52, 74, 98, 120, 146, 168, 192, 216, 238, 262, 284};
+
+switch(yP)
+{
+    case 4:	// Row 1, dots 1 - 12
+    {
+	for(int i = 0; i < 12; i++)
+	{
+	    if(xP == row1n6dots[i])
+	    {
+		gobbleDot(i+1);
+		break;
+	    }
+	}
+	break;
+    }
+    case 26:	// Row 2, dots 13 - 18
+    {
+	for( int i = 0; i < 6; i++)
+	{
+	    if(xP == row2n5dots[i])
+	    {
+		gobble(i+13);
+		break;
+	    }
+	}
+	break;
+    }
+    case 46:	// Row 3, dots 19 - 31
+    {
+	for( int i = 0; i < 13; i++)
+	{
+	    if(xP == row3n4dots[i])
+	    {
+		gobbleDot(i+19);
+		break;
+	    }
+	}
+	break;
+    }
+    case 66:	// Row 3.1, dots 32 - 33
+    {
+	if(xP == 28) gobbleDot(32);
+	else if (xP == 262) gobbleDot(33);
+	break;
+    }
+    case 86:	// Row 3.1, dots 34 - 35
+    {
+	if(xp == 28) gobble(34);
+	else if (xp == 262) gobble(35);
+	break;
+    }
+    case 108:	// Row 3.1, dots 36 - 37
+    {
+	if(xp == 28) gobble(36);
+	else if (xp == 262) gobble(37);
+	break;
+    }
+    case 126:	// Row 3.1, dots 38 - 39
+    {
+	if(xp == 28) gobble(38);
+	else if (xp == 262) gobble(39);
+	break;
+    }
+    case 146:	// Row 3.1, dots 40 - 41
+    {
+	if(xp == 28) gobble(40);
+	else if (xp == 262) gobble(41);
+	break;
+    }
+    case 168:	// Row 4, dots 42 - 54
+    {
+	for( int i = 0; i < 13; i++)
+	{
+	    if(xP == row3n4dots[i])
+	    {
+		gobble(i+42);
+		break;
+	    }
+	}
+	break;
+    }
+    case 188:	// Row 5, dots 55 - 60
+    {
+	for( int i = 0; i < 6; i++)
+	{
+	    if(xP == row2n5dots[i])
+	    {
+		gobble(i+55);
+		break;
+	    }
+	}
+	break;
+    }
+    case 208:	// Row 6, dots 61 - 72
+    {
+	for( int i = 0; i < 12; i++)
+	{
+	    if(xP == row1n6dots[i])
+	    {
+		gobble(i+61);
+		break;
+	    }
+	}
+	break;
+    }
+};
+

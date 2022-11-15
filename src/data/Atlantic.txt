@@ -1,0 +1,10 @@
+Azores,<-01>1<+00>,M3.5.0/0,M10.5.0/1
+Bermuda,AST4ADT,M3.2.0,M11.1.0
+Canary,WET0WEST,M3.5.0/1,M10.5.0
+Cape_Verde,<-01>1
+Faroe,WET0WEST,M3.5.0/1,M10.5.0
+Madeira,WET0WEST,M3.5.0/1,M10.5.0
+Reykjavik,GMT0
+South_Georgia,<-02>2
+Stanley,<-03>3
+St_Helena,GMT0
