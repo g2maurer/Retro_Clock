@@ -1,9 +1,8 @@
 # Retro_Clock
 This is a highly modified version of TechKiwiGadgets clock found on 
-  Instructables
-    https://www.instructables.com/ESP32-Pacman-Clock/
-  Makerbot Thingiverse (ESP32 Pacman Clock)
-    https://www.thingiverse.com/thing:5136672
+
+1. Instructables     https://www.instructables.com/ESP32-Pacman-Clock/
+2. Makerbot Thingiverse (ESP32 Pacman Clock)    https://www.thingiverse.com/thing:5136672
 
 Modifications:
 1. Changed TFT display to an SPI version which has a much improved Touch interface.
