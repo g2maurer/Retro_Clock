@@ -22,5 +22,5 @@ TFT_eSPI library:
 
 Tools:
 1. Arduino IDE 1.8.19, Board: DOIT ESP32 DEVKIT V1
-2. Initialize SPIFFS using Arduino IDE  "Tools/ESP32 Sketch Data Upload" (which will initializee SPIFFS and upload all the files from the Data directory.
+2. Initialize SPIFFS using Arduino IDE  "Tools/ESP32 Sketch Data Upload" (which will initializee SPIFFS and upload all the files from the Data directory).
 3. Creality Slicer, PLA, 0.2mm, no supports.
