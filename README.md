@@ -14,3 +14,8 @@ Modifications:
 7. Made many changes to firmware to improve speed and readability. 
 8. Designed PCB to support above mentioned changes.
 9. Redesigned 3D printed parts to support hardware changes.
+
+TFT_eSPI library:
+1. The TFT_eSPI library requires it be changed to support each particular build (unusal but that's way way it works).
+2. The file User_Setup_Select.h specifies which setup file in the User_Setups directory is to be used.
+3. Added to the User_Setups directory is the file Setup_Pacman_Clock.h which contains the specifies the configuration and features (Touch) used by this project.
