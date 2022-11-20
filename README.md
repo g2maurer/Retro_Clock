@@ -19,6 +19,8 @@ TFT_eSPI library:
 1. The TFT_eSPI library requires it be changed to support each particular build (unusal but that's way way it works).
 2. The file User_Setup_Select.h specifies which setup file in the User_Setups directory is to be used.
 3. Added to the User_Setups directory is the file Setup_Pacman_Clock.h which contains the specifies the configuration and features (Touch) used by this project.
+4. Move the file "Setup_Pacman_Clock.h" into directory   ...Arduino/libraries/TFT_eSPI/User_Setups
+5. Move the file "User_Setup_Select.h" into the directory    ...Arduino/libraries/TFT_eSPI   (replaces the existing User_Setup_Select.h file). 
 
 Tools:
 1. Arduino IDE 1.8.19, Board: DOIT ESP32 DEVKIT V1
