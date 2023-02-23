@@ -40,6 +40,7 @@ Additional Notes:
 		Time at version 1.6.1
 		Adafruit_BusIO at version 1.14.1
 4.	TFT_eSPI setup file contains (see TFT_eSPI folder in Arduino/libraries):
+
 		#define USER_SETUP_ID 900
 		#define ILI9341_DRIVER
 		#define TFT_MISO	19
