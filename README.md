@@ -31,6 +31,7 @@ Additional Notes:
 1. 	Arduino Sketch (IDE) Version 1.8.19
 2.	Board Manager -> esp32 by Espressif Systems Version 1.0.6
 3.	Libraries used:
+
 		TFT_eSPI at version 2.5.0
 		RTClib at version 2.1.1
 		Wire at version 1.0.1
